@@ -1,0 +1,22 @@
+{
+    "ship": [
+        {
+            "name": "Death Star",
+            "handling": "manual",
+            "size": "265,675",
+            "luggage": "4 bags"
+        },
+        {
+            "name": "Millenium Falcon 2019",
+            "handling": "automatic",
+            "size": "2",
+            "luggage": "2 bags"
+        },
+        {
+            "name": "horse 2.0",
+            "handling": "manual",
+            "size": "2 on a good day",
+            "luggage": "1 bag"
+        }
+    ]
+}

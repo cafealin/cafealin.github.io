@@ -12,11 +12,13 @@
         "handling": "automatic",
         "size": "2",
         "luggage": "2 bags"
+        "efficiency": "10 thousand ton of coal per minute operated"
     },
     {
         "name": "horse 2.0",
         "handling": "manual",
         "size": "2 on a good day",
         "luggage": "1 bag"
+        "efficiency": "10 thousand ton of coal per minute operated"
     }
 ]

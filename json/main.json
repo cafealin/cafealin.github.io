@@ -4,7 +4,7 @@
         "handling": "manual",
         "size": "265,675",
         "luggage": "4 bags",
-        "efficiency": "10 thousand ton of coal per minute operated",
+        "fuel": "10 thousand ton of coal per minute operated",
         "img": "../img/14-Death-Star.jpg"
     },
     {
@@ -12,7 +12,7 @@
         "handling": "automatic",
         "size": "2",
         "luggage": "2 bags"
-        "efficiency": "10 thousand ton of coal per minute operated",
+        "fuel": "10 thousand ton of coal per minute operated",
         "img": "../img/14-Death-Star.jpg"
     },
     {
@@ -20,7 +20,7 @@
         "handling": "manual",
         "size": "2 on a good day",
         "luggage": "1 bag"
-        "efficiency": "10 thousand ton of coal per minute operated",
+        "fuel": "10 thousand ton of coal per minute operated",
         "img": "../img/14-Death-Star.jpg"
     }
 ]

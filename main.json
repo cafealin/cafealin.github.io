@@ -1,5 +1,4 @@
-{
-    "ship": [
+[
         {
             "name": "Death Star",
             "handling": "manual",
@@ -18,5 +17,4 @@
             "size": "2 on a good day",
             "luggage": "1 bag"
         }
-    ]
-}
+]

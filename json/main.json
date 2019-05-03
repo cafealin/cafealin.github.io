@@ -40,7 +40,7 @@
             "shield": "Deflector ship-wide shields",
             "arms": "12 phaser banks, 6 photon torpedo launchers, 1 probe launcher",
             "price": "£800 a day",
-            "img": ""
+            "img": "img/starship-enterprise.jpg"
         }
     ]
 }

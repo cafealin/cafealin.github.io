@@ -15,12 +15,18 @@
             "img": "https://www.gundamplanet.com/pub/media/catalog/product/cache/aa72b28f82ebf2d897600ee194018ec6/p/g/pg-1-72-millennium-falcon-00.jpg"
         },
         {
-            "name": "Millenium Falcon 2019",
-            "handling": "automatic",
-            "size": "2",
-            "luggage": "2 bags",
-            "fuel": "10 thousand ton of coal per minute operated",
-            "img": "../img/14-Death-Star.jpg"
+            "name": "Death Star",
+            "description": "Destroy any annoying planet with ease with this state of the art battle-station. Comes with only one weakness that could see the destruction of the whole station.",
+            "model": "Space battle Station",
+            "length": "160km",
+            "height": "120km in radius",
+            "speed": "Light Speed",
+            "crew": "1 million",
+            "cargo": "1 million metric tons",
+            "shield": "Torplex deflector shield projector",
+            "arms": "Turbo Lasers, Ion cannons",
+            "price": "£3000 a day",
+            "img": "https://vignette.wikia.nocookie.net/starwars/images/9/9d/DSI_hdapproach.png/revision/latest?cb=20130221005853"
         },
         {
             "name": "horse 2.0",

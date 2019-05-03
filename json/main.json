@@ -29,12 +29,18 @@
             "img": "https://vignette.wikia.nocookie.net/starwars/images/9/9d/DSI_hdapproach.png/revision/latest?cb=20130221005853"
         },
         {
-            "name": "horse 2.0",
-            "handling": "manual",
-            "size": "2 on a good day",
-            "luggage": "1 bag",
-            "fuel": "10 thousand ton of coal per minute operated",
-            "img": "../img/14-Death-Star.jpg"
+            "name": "USS Enterprise",
+            "description": "Wanting that classic starship feel then look no further than the USS Enterprise, all the speed and armaments you would find on a modern starship but with the added sohpistication the Enterprise offers.",
+            "model": "Constitution-class (NCC-1701)",
+            "length": "288.646 metres",
+            "height": "88.2m",
+            "speed": "Warp Speed",
+            "crew": "430",
+            "cargo": "400,000 metric tons",
+            "shield": "Deflector ship-wide shields",
+            "arms": "12 phaser banks, 6 photon torpedo launchers, 1 probe launcher",
+            "price": "£800 a day",
+            "img": ""
         }
     ]
 }

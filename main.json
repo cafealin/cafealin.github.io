@@ -7,6 +7,7 @@
         },
         {
             "name": "Millenium Falcon 2019",
+            "description": "Although it looks like a piece of junk its actually an amazing ship. This ship is infamous for making the kessel run in less than 12 parsecs. As well as contributing to the destruction of the galactic empire.",
             "handling": "automatic",
             "size": "2",
             "luggage": "2 bags"

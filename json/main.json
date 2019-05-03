@@ -11,7 +11,8 @@
             "cargo": "100 metric tons",
             "shield": "Torplex deflector shield projector",
             "arms": "2 CEC AG-2G quad laser cannons",
-            "img": "../img/14-Death-Star.jpg"
+            "price": "£250 a day",
+            "img": "https://www.gundamplanet.com/pub/media/catalog/product/cache/aa72b28f82ebf2d897600ee194018ec6/p/g/pg-1-72-millennium-falcon-00.jpg"
         },
         {
             "name": "Millenium Falcon 2019",

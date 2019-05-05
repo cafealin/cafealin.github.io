@@ -12,6 +12,7 @@
             "shield": "Torplex deflector shield projector",
             "arms": "2 CEC AG-2G quad laser cannons",
             "price": 250,
+            "link": "product-page-1.html",
             "img": "https://www.gundamplanet.com/pub/media/catalog/product/cache/aa72b28f82ebf2d897600ee194018ec6/p/g/pg-1-72-millennium-falcon-00.jpg"
         },
         {
@@ -26,6 +27,7 @@
             "shield": "Torplex deflector shield projector",
             "arms": "Turbo Lasers, Ion cannons",
             "price": 3000,
+            "link": "product-page-2.html",
             "img": "https://vignette.wikia.nocookie.net/starwars/images/9/9d/DSI_hdapproach.png/revision/latest?cb=20130221005853"
         },
         {
@@ -40,6 +42,7 @@
             "shield": "Deflector ship-wide shields",
             "arms": "12 phaser banks, 6 photon torpedo launchers, 1 probe launcher",
             "price": 800,
+            "link": "product-page-3.html",
             "img": "img/starship-enterprise.jpg"
         }
     ]

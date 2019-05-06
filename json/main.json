@@ -13,7 +13,7 @@
             "arms": "2 CEC AG-2G quad laser cannons",
             "price": 250,
             "link": "product-page-1.html",
-            "img": "https://www.gundamplanet.com/pub/media/catalog/product/cache/aa72b28f82ebf2d897600ee194018ec6/p/g/pg-1-72-millennium-falcon-00.jpg"
+            "img": "img/millenium-falcon.jpg"
         },
         {
             "name": "Death Star",
@@ -28,7 +28,7 @@
             "arms": "Turbo Lasers, Ion cannons",
             "price": 3000,
             "link": "product-page-2.html",
-            "img": "https://vignette.wikia.nocookie.net/starwars/images/9/9d/DSI_hdapproach.png/revision/latest?cb=20130221005853"
+            "img": "img/Death-Star.jpg"
         },
         {
             "name": "USS Enterprise",

@@ -13,7 +13,7 @@
             "arms": "2 CEC AG-2G quad laser cannons",
             "price": 250,
             "link": "product-page-1.html",
-            "img": "img/millennium-falcon.jpg"
+            "img": "img/falcon.jpg"
         },
         {
             "name": "Death Star",
@@ -28,7 +28,7 @@
             "arms": "Turbo Lasers, Ion cannons",
             "price": 3000,
             "link": "product-page-2.html",
-            "img": "img/Death-Star.jpg"
+            "img": "img/death-star.jpg"
         },
         {
             "name": "USS Enterprise",
